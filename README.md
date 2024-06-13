@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @huseyinmotuk
+- 👀 I’m interested in mobile application
+- 🌱 I’m currently learning Javascript - Typescript - React Native 
+- 📫 How to reach me hmotukk@gmail.com
